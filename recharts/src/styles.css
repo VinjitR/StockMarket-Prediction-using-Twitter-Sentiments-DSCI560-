@@ -1,0 +1,117 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+}
+.a-left{
+  width: 250px;
+  height: 100vh;
+  background-color: #2f4050;
+  position: fixed;
+}
+.a-right{
+  justify-content: center;
+  margin-left: 10%;
+}
+.m-sidebar{
+  height:100%;
+  width: 250px;
+  
+}
+.piechart{
+  align-items:center;
+  background-color: rgb(233, 236, 236);
+}
+
+.sidebar-list{
+  margin-top:40% ;
+  height:100%;
+  padding: 0;
+  width: 100%;
+}
+.sidebar-row{
+  height: 100px;
+  width: 80%;
+  margin-top:10%;
+  margin-left: 10%;
+  margin-right: 10%;
+  list-style-type:none ;
+  color:white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  background-color: #34506b;
+  
+}
+
+.sidebar-row:hover{
+  cursor: pointer;
+  background-color: #293846;
+}
+
+.scroll-container{
+  display: flex;
+  width: 1300px;
+  height: 500px;
+}
+.s-center{
+  justify-content: center;
+  align-self: center;
+  margin-left:10%;
+  margin-right:10%;
+  margin-top: 4%;
+  margin-bottom: 2%;
+  width: 70%;
+  height:auto;
+}
+.c-button{
+  margin:1%;
+  background-color: #293846;
+  color: #d8dce0;
+  font-size: large;
+  width: 300px;
+  height:50px;
+  align-self: flex-start;
+}
+.column {
+  float: left;
+  width: 30%;
+  padding: 0 10px;
+}
+.s-mcenter{
+  justify-content: center;
+  align-self: center;
+  margin-left:50%;
+  margin-right:10%;
+  margin-top: 4%;
+  width: 100%;
+  height:auto;
+}
+.s-mcenter_head{
+  justify-content: center;
+  align-self: center;
+  margin-left:50%;
+  margin-right:10%;
+  margin-top: 4%;
+  width: 100%;
+  height: 10%;
+  align-content: center;
+  background-color: #f1f1f1;
+  font-size: 42px;
+  font-style: italic;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/* Remove extra left and right margins, due to padding */
+.row {margin: 0 -5px;}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 16px;
+  text-align: center;
+  background-color: #f1f1f1;
+}
+.imgr{
+  width:80%;
+  height:80%;
+}

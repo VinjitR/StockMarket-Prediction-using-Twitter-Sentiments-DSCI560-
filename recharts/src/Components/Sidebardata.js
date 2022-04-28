@@ -1,0 +1,30 @@
+export const sidebardata=[
+    {
+        title:"Home",
+        link:"/"
+    },
+    {
+        title:"AAPL",
+        link:"/AAPL"
+    },
+    {
+        title:"AMZN",
+        link:"/AMZN"
+    },
+    {
+        title:"FB",
+        link:"/FB"
+    },
+    {
+        title:"MSFT",
+        link:"/MSFT"
+    },
+    {
+        title:"TSLA",
+        link:"/TSLA"
+    },
+    {
+        title:"GOOGL",
+        link:"/GOOGL"
+    }
+];
