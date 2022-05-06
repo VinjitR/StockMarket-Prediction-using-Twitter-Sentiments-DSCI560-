@@ -13,7 +13,19 @@ The models used and code is present in step based time series forecasting.
 ## Results
 
 We anlyse results using Mean Squared Error(MSE)
+![Results](/images/results.jpg?raw=true "Results of MSE")
 
+
+## Technology Stack
+<ul>
+  <li>Flask</li>
+  <li>React</li>
+  <li>Python</li>
+  <li>TensorFlow</li>
+</ul>
+
+## Preview of Web Interface
+![Preview](/images/home_page.jpg?raw=true "Home Page")
 
 ## backend setup
 <ol>
