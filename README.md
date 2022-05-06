@@ -20,4 +20,11 @@ All the model generatabel code is present in the step based forecasting notebook
 </ol>
 
 # Demo Video
-![Recording](https://drive.google.com/file/d/17fE381ZG2n49Ufh2A5mNv--CV-pXpqRS/view?usp=sharing)
+[Recording](https://drive.google.com/file/d/17fE381ZG2n49Ufh2A5mNv--CV-pXpqRS/view?usp=sharing)
+
+## Contact
+<ul>
+  <li>sregulag@usc.edu</li>
+  <li>puzhou@usc.edu</li>
+  <li>maxiato@usc.edu</li>
+</ul>
