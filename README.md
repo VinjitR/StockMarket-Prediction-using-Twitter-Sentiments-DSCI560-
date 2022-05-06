@@ -3,7 +3,7 @@ All the model generatabel code is present in the step based forecasting notebook
 
 ## backend setup
 <ol>
-<li><li>cd flask_backend</li>
+<li>cd flask_backend</li>
 <li>create a python virtual environment</li>
 <li>actiavte environment</li>
 <li>pip install -r requirements.txt</li>
