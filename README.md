@@ -26,5 +26,5 @@ All the model generatabel code is present in the step based forecasting notebook
 <ul>
   <li>sregulag@usc.edu</li>
   <li>puzhou@usc.edu</li>
-  <li>maxiata@usc.edu</li>
+  <li>maxiaota@usc.edu</li>
 </ul>
