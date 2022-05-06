@@ -1,21 +1,23 @@
 # dsci560_project
+All the model generatabel code is present in the step based forecasting notebook. Here, we tried to generate models by changing target_size and saving them as .pkl files.
 
-cd flask_backend
+## backend setup
+<ol>
+<li><li>cd flask_backend</li>
+<li>create a python virtual environment</li>
+<li>actiavte environment</li>
+<li>pip install -r requirements.txt</li>
+<li>flask run</li>
+</ol>
 
-create a python virtual environment
+## front end setup
+<ol>
+<li>cd recharts</li>
 
-actiavte environment
+<li>npm --force i</li>
 
-pip install -r requirements.txt
+<li>npm start</li>
+</ol>
 
-flask run
-
-
-# front end
-
-cd recharts
-
-npm --force i
-
-npm start
-
+# Demo Video
+![Recording](https://drive.google.com/file/d/17fE381ZG2n49Ufh2A5mNv--CV-pXpqRS/view?usp=sharing)
