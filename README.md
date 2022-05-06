@@ -1,4 +1,4 @@
-# dsci560_project
+# DSCI560_project Stock Market Predictions using Twitter Sentiments
 All the model generatabel code is present in the step based forecasting notebook. Here, we tried to generate models by changing target_size and saving them as .pkl files.
 
 ## backend setup
